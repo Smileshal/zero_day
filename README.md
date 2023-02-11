@@ -1,1 +1,1 @@
-*First time writing a markdown text*
+*First time using a markdown text*
